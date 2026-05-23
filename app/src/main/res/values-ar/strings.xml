@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tasess</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_forecast">التوقعات</string>
+    <string name="nav_search">بحث</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="feels_like">الشعور %s</string>
+    <string name="wind">الرياح</string>
+    <string name="humidity">الرطوبة</string>
+    <string name="today">اليوم</string>
+    <string name="seven_day_forecast">توقعات 7 أيام</string>
+    <string name="search_city_hint">ابحث عن مدينة...</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="use_fahrenheit">استخدام فهرنهايت</string>
+    <string name="weather_data_attribution">بيانات الطقس مقدمة من Open-Meteo</string>
+    <string name="desc_clear_sky">سماء صافية</string>
+    <string name="desc_mainly_clear">صافٍ غالباً</string>
+    <string name="desc_partly_cloudy">غائم جزئياً</string>
+    <string name="desc_overcast">غائم</string>
+    <string name="desc_fog">ضباب</string>
+    <string name="desc_drizzle">رذاذ</string>
+    <string name="desc_freezing_drizzle">رذاذ متجمد</string>
+    <string name="desc_rain">مطر</string>
+    <string name="desc_heavy_rain">مطر غزير</string>
+    <string name="desc_freezing_rain">مطر متجمد</string>
+    <string name="desc_snow_fall">تساقط ثلوج</string>
+    <string name="desc_snow_grains">حبيبات ثلجية</string>
+    <string name="desc_rain_showers">زخات مطر</string>
+    <string name="desc_snow_showers">زخات ثلج</string>
+    <string name="desc_thunderstorm">عاصفة رعدية</string>
+    <string name="desc_thunderstorm_hail">عاصفة رعدية مع بَرَد</string>
+    <string name="desc_unknown">غير معروف</string>
+    <string name="change_background">تغيير الخلفية</string>
+    <string name="reset_background">إعادة ضبط الخلفية</string>
+    <string name="background_settings">إعدادات الخلفية</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "tasess",
+  "description": "A modern Android weather application focused on simplicity and accurate forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

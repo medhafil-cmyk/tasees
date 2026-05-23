@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tasess</string>
+    <string name="nav_home">Accueil</string>
+    <string name="nav_forecast">Prévisions</string>
+    <string name="nav_search">Chercher</string>
+    <string name="nav_settings">Paramètres</string>
+    <string name="feels_like">Ressenti %s</string>
+    <string name="wind">Vents</string>
+    <string name="humidity">Humidité</string>
+    <string name="today">Aujourd\'hui</string>
+    <string name="seven_day_forecast">Prévisions à 7 jours</string>
+    <string name="search_city_hint">Chercher une ville...</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="use_fahrenheit">Utiliser Fahrenheit</string>
+    <string name="weather_data_attribution">Données météorologiques fournies par Open-Meteo</string>
+    <string name="desc_clear_sky">Ciel dégagé</string>
+    <string name="desc_mainly_clear">Principalement dégagé</string>
+    <string name="desc_partly_cloudy">Partiellement nuageux</string>
+    <string name="desc_overcast">Couvert</string>
+    <string name="desc_fog">Brouillard</string>
+    <string name="desc_drizzle">Bruine</string>
+    <string name="desc_freezing_drizzle">Bruine verglaçante</string>
+    <string name="desc_rain">Pluie</string>
+    <string name="desc_heavy_rain">Forte pluie</string>
+    <string name="desc_freezing_rain">Pluie verglaçante</string>
+    <string name="desc_snow_fall">Chute de neige</string>
+    <string name="desc_snow_grains">Grains de neige</string>
+    <string name="desc_rain_showers">Averses de pluie</string>
+    <string name="desc_snow_showers">Averses de neige</string>
+    <string name="desc_thunderstorm">Orage</string>
+    <string name="desc_thunderstorm_hail">Orage avec grêle</string>
+    <string name="desc_unknown">Inconnu</string>
+    <string name="change_background">Changer l\'arrière-plan</string>
+    <string name="reset_background">Réinitialiser l\'arrière-plan</string>
+    <string name="background_settings">Paramètres d\'arrière-plan</string>
+</resources>
